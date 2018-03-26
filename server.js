@@ -23,7 +23,7 @@ monDb.once('open', function callback() {
 });
 
 // Set port
-const port = process.env.PORT || '3001';
+const port = process.env.PORT || '4000';
 app.set('port', port);
 
 // Routes
