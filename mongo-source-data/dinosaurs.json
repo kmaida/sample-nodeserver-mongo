@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "Allosaurus",
     "pronunciation": "AL-oh-sore-us",
     "meaningOfName": "other lizard",
@@ -11,7 +10,6 @@
     "info": "Allosaurus was an apex predator in the Late Jurassic in North America."
   },
   {
-    "id": 2,
     "name": "Apatosaurus",
     "pronunciation": "ah-PAT-oh-sore-us",
     "meaningOfName": "deceptive lizard",
@@ -22,7 +20,6 @@
     "info": "Named the 'deceptive lizard' because its skull was confused with those of other sauropods until 1909."
   },
   {
-    "id": 3,
     "name": "Brachiosaurus",
     "pronunciation": "BRAK-ee-oh-sore-us",
     "meaningOfName": "arm lizard",
@@ -33,7 +30,6 @@
     "info": "Brachiosaurus was a large, North American sauropod dinosaur with an arch encircling its nasal opening."
   },
   {
-    "id": 4,
     "name": "Compsognathus",
     "pronunciation": "komp-sog-NATH-us",
     "meaningOfName": "pretty jaw",
@@ -44,7 +40,6 @@
     "info": "Compsognathus was small and bipedal, roughly the size of a turkey. It lived in Europe and was the first dinosaur genus to be portrayed with feathers."
   },
   {
-    "id": 5,
     "name": "Dracorex",
     "pronunciation": "dray-ko-rex",
     "meaningOfName": "dragon king",
@@ -55,7 +50,6 @@
     "info": "<em>Dracorex hogwartsia</em> was a pachycephalosaur that did not have a domed head. Instead, its skull was adorned with spikes and frills reminiscent of a dragon. A skull was discovered in the Hell Creek Formation in South Dakota and donated to the Children's Museum of Indianapolis in 2004. Its name was inspired by J.K. Rowling's Harry Potter series and the young visitors to the children's museum."
   },
   {
-    "id": 6,
     "name": "Elasmosaurus",
     "pronunciation": "ee-LAZ-mo-sore-us",
     "meaningOfName": "thin plate lizard",
@@ -66,7 +60,6 @@
     "info": "Elasmosaurus was an aquatic dinosaur with an extremely long neck that likely fed on other smaller aquatic fauna like fish, molluscs, and squid. E.D. Cope mistakenly placed the skull of an Elasmosaurus on the much shorter tail rather than the extremely long neck."
   },
   {
-    "id": 7,
     "name": "Giganotosaurus",
     "pronunciation": "jig-a-NOT-o-sore-us",
     "meaningOfName": "giant southern lizard",
@@ -77,7 +70,6 @@
     "info": "Giganotosaurus was one of the largest known terrestrial carnivores, but the incompleteness of its remains have made it difficult to estimate its size reliably."
   },
   {
-    "id": 8,
     "name": "Herrerasaurus",
     "pronunciation": "in-doh-sook-us",
     "meaningOfName": "Herrera's lizard",
@@ -88,7 +80,6 @@
     "info": "Herrerasaurus was a dinosaur which lived approximately 231 million years ago—making it one of the earliest dinosaurs to have ever walked the Earth that have been found so far."
   },
   {
-    "id": 9,
     "name": "Indosuchus",
     "pronunciation": "in-doh-sook-us",
     "meaningOfName": "Indian crocodile",
@@ -99,7 +90,6 @@
     "info": "Indosuchus had a flattened crest on its skull."
   },
   {
-    "id": 10,
     "name": "Jingshanosaurus",
     "pronunciation": "jing-shahn-oh-sore-us",
     "meaningOfName": "Jingshan lizard",
@@ -110,7 +100,6 @@
     "info": "Jingshanosaurus was one of the last prosauropods, a long-necked herbivore able to walk on two legs."
   },
   {
-    "id": 11,
     "name": "Ouranosaurus",
     "pronunciation": "oo-RAH-noh-sore-us",
     "meaningOfName": "brave monitor lizard",
@@ -121,7 +110,6 @@
     "info": "Ouranosaurus was an iguanodont dinosaur in Africa. It had a large sail on its back supported by long, wide neural spines and an elnogated, flat skull."
   },
   {
-    "id": 12,
     "name": "Parasaurolophus",
     "pronunciation": "PARR-eh-saw-ROL-off-us / PARR-eh-sawr-eh-LOH-fus",
     "meaningOfName": "near crested lizard",
@@ -132,7 +120,6 @@
     "info": "Found in Canada and the USA, Parasaurolophus was a hadrosaur most famous for its long, elaborate cranial crest."
   },
   {
-    "id": 13,
     "name": "Spinosaurus",
     "pronunciation": "SPINE-oh-SORE-us",
     "meaningOfName": "spine lizard",
@@ -143,7 +130,6 @@
     "info": "Spinosaurus was one of the largest carnivorous dinosaurs to walk the Earth. Its diet consisted mostly of fish and the large spines on its back likely formed a sail."
   },
   {
-    "id": 14,
     "name": "Stegosaurus",
     "pronunciation": "STE-go-sore-us",
     "meaningOfName": "roof lizard",
@@ -154,7 +140,6 @@
     "info": "Stegosaurus was a large, heavily built, herbivorous quadruped with a rounded back, short forelimbs, long hind limbs, and tails held high in the air. The function of Stegosaurus's array of plates and spikes has been the subject of much speculation among scientists."
   },
   {
-    "id": 15,
     "name": "Troodon",
     "pronunciation": "TRO-oh-don",
     "meaningOfName": "wounding tooth",
@@ -165,7 +150,6 @@
     "info": "Troodon is a small bird-like Theropod, with a large brain for its relatively small size. Due to this, Troodon is believed to be among the most intelligent dinosaurs."
   },
   {
-    "id": 16,
     "name": "Tyrannosaurus",
     "pronunciation": "tie-RAN-oh-sore-us",
     "meaningOfName": "tyrant lizard",
@@ -176,7 +160,6 @@
     "info": "Tyrannosaurus is well-represented in both fiction and history with over 50 specimens discovered. It and was one of the last non-avian dinosaurs to exist before the extinction event. Tyrannosaurus had a massive skull and a long heavy tail."
   },
   {
-    "id": 17,
     "name": "Utahraptor",
     "pronunciation": "YOO-tah-RAP-tor",
     "meaningOfName": "Utah predator",
@@ -187,7 +170,6 @@
     "info": "Found in the USA, Utahraptor resembled velociraptor but much larger, prompting Robert T. Bakker to pronounce it 'Spielberg's raptor' due to the velociraptors in the movie <em>Jurassic Park</em> being portrayed much larger than their historical counterparts."
   },
   {
-    "id": 18,
     "name": "Xenoceratops",
     "pronunciation": "ZEE-no-SEH-ruh-tops",
     "meaningOfName": "alien horned face",
@@ -198,7 +180,6 @@
     "info": "Xenoceratops had horns and a bony frill with elborate ornamentation of projections, knobs, and spikes."
   },
   {
-    "id": 19,
     "name": "Zephyrosaurus",
     "pronunciation": "ZEF-ear-ro-SORE-us",
     "meaningOfName": "West wind lizard",

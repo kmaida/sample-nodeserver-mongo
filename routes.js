@@ -2,6 +2,12 @@
 const Dinosaur = require('./models/Dinosaur');
 const Dragon = require('./models/Dragon');
 
+const sortByName = (a, b) => {
+  if (a.name < b.name) { return -1; }
+  if (a.name > b.name) { return 1; }
+  return 0;
+}
+
 module.exports = function(app, config) {
   // API works (public)
   app.get('/', (req, res) => {
@@ -19,6 +25,7 @@ module.exports = function(app, config) {
         dinos.forEach(dino => {
           dinosArr.push(dino);
         });
+        dinosArr.sort(sortByName);
       }
       res.send(dinosArr);
     });
