@@ -1,6 +1,6 @@
 # sample-auth0-nodeserver-mongo
 
-You can access this server at [https://dino-api.kmaida.net](https://dino-api.kmaida.net).
+You can access this server at [http://dinoapi.kmaida.net](http://dinoapi.kmaida.net).
 
 ## License
 
