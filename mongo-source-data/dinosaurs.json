@@ -67,17 +67,28 @@
   },
   {
     "id": 7,
-    "name": "Giraffatitan",
-    "pronunciation": "ji-raf-e-tie-tan",
-    "meaningOfName": "giraffe titan",
-    "diet": "herbivorous",
-    "length": "23m",
-    "period": "Late Jurassic",
-    "mya": "154-142",
-    "info": "Giraffatitan was a large sauropod related to Brachiosaurus with huge nostrils and nasal openings in its skull."
+    "name": "Giganotosaurus",
+    "pronunciation": "jig-a-NOT-o-sore-us",
+    "meaningOfName": "giant southern lizard",
+    "diet": "carnivorous",
+    "length": "14m",
+    "period": "Late Cretaceous",
+    "mya": "99.6-97",
+    "info": "Giganotosaurus was one of the largest known terrestrial carnivores, but the incompleteness of its remains have made it difficult to estimate its size reliably."
   },
   {
     "id": 8,
+    "name": "Herrerasaurus",
+    "pronunciation": "in-doh-sook-us",
+    "meaningOfName": "Herrera's lizard",
+    "diet": "carnivorous",
+    "length": "6m",
+    "period": "Triassic",
+    "mya": "231",
+    "info": "Herrerasaurus was a dinosaur which lived approximately 231 million years ago—making it one of the earliest dinosaurs to have ever walked the Earth that have been found so far."
+  },
+  {
+    "id": 9,
     "name": "Indosuchus",
     "pronunciation": "in-doh-sook-us",
     "meaningOfName": "Indian crocodile",
@@ -88,7 +99,7 @@
     "info": "Indosuchus had a flattened crest on its skull."
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Jingshanosaurus",
     "pronunciation": "jing-shahn-oh-sore-us",
     "meaningOfName": "Jingshan lizard",
@@ -99,29 +110,7 @@
     "info": "Jingshanosaurus was one of the last prosauropods, a long-necked herbivore able to walk on two legs."
   },
   {
-    "id": 10,
-    "name": "Khaan",
-    "pronunciation": "kahn",
-    "meaningOfName": "ruler",
-    "diet": "omnivorous",
-    "length": "1.8m",
-    "period": "Late Cretaceous",
-    "mya": "81-75",
-    "info": "Khaan was an oviraptor with a parrot-like beak, discovered in Mongolia."
-  },
-  {
     "id": 11,
-    "name": "Minmi",
-    "pronunciation": "min-mie",
-    "meaningOfName": "Minmi Crossing, Queensland, Australia",
-    "diet": "herbivorous",
-    "length": "3m",
-    "period": "Early Cretaceous",
-    "mya": "121-112",
-    "info": "Minmi was a small, anklyosaurian, armored dinosaur discovered in Australia."
-  },
-  {
-    "id": 12,
     "name": "Ouranosaurus",
     "pronunciation": "oo-RAH-noh-sore-us",
     "meaningOfName": "brave monitor lizard",
@@ -132,7 +121,7 @@
     "info": "Ouranosaurus was an iguanodont dinosaur in Africa. It had a large sail on its back supported by long, wide neural spines and an elnogated, flat skull."
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Parasaurolophus",
     "pronunciation": "PARR-eh-saw-ROL-off-us / PARR-eh-sawr-eh-LOH-fus",
     "meaningOfName": "near crested lizard",
@@ -143,7 +132,7 @@
     "info": "Found in Canada and the USA, Parasaurolophus was a hadrosaur most famous for its long, elaborate cranial crest."
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Spinosaurus",
     "pronunciation": "SPINE-oh-SORE-us",
     "meaningOfName": "spine lizard",
@@ -154,7 +143,29 @@
     "info": "Spinosaurus was one of the largest carnivorous dinosaurs to walk the Earth. Its diet consisted mostly of fish and the large spines on its back likely formed a sail."
   },
   {
+    "id": 14,
+    "name": "Stegosaurus",
+    "pronunciation": "STE-go-sore-us",
+    "meaningOfName": "roof lizard",
+    "diet": "herbivorous",
+    "length": "6m",
+    "period": "Late Jurassic",
+    "mya": "155-150",
+    "info": "Stegosaurus was a large, heavily built, herbivorous quadruped with a rounded back, short forelimbs, long hind limbs, and tails held high in the air. The function of Stegosaurus's array of plates and spikes has been the subject of much speculation among scientists."
+  },
+  {
     "id": 15,
+    "name": "Troodon",
+    "pronunciation": "TRO-oh-don",
+    "meaningOfName": "wounding tooth",
+    "diet": "omnivorous",
+    "length": "1m",
+    "period": "Cretaceous",
+    "mya": "77",
+    "info": "Troodon is a small bird-like Theropod, with a large brain for its relatively small size. Due to this, Troodon is believed to be among the most intelligent dinosaurs."
+  },
+  {
+    "id": 16,
     "name": "Tyrannosaurus",
     "pronunciation": "tie-RAN-oh-sore-us",
     "meaningOfName": "tyrant lizard",
@@ -165,7 +176,7 @@
     "info": "Tyrannosaurus is well-represented in both fiction and history with over 50 specimens discovered. It and was one of the last non-avian dinosaurs to exist before the extinction event. Tyrannosaurus had a massive skull and a long heavy tail."
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Utahraptor",
     "pronunciation": "YOO-tah-RAP-tor",
     "meaningOfName": "Utah predator",
@@ -174,17 +185,6 @@
     "period": "Early Cretaceous",
     "mya": "112-100",
     "info": "Found in the USA, Utahraptor resembled velociraptor but much larger, prompting Robert T. Bakker to pronounce it 'Spielberg's raptor' due to the velociraptors in the movie <em>Jurassic Park</em> being portrayed much larger than their historical counterparts."
-  },
-  {
-    "id": 17,
-    "name": "Vulcanodon",
-    "pronunciation": "vul-ka-oh-don",
-    "meaningOfName": "vulcano tooth",
-    "diet": "herbivorous",
-    "length": "6.5m",
-    "period": "Early Jurassic",
-    "mya": "183-175",
-    "info": "Vulcanodon was a primitive sauropod that lived in southern Africa."
   },
   {
     "id": 18,
